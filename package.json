@@ -1,0 +1,34 @@
+{
+  "name": "@aburkov/build-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burkov/build-analyzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burkov/build-analyzer/issues"
+  },
+  "homepage": "https://github.com/burkov/build-analyzer#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.158",
+    "@types/prettier": "^2.0.2",
+    "@types/rimraf": "^3.0.0",
+    "npm-check-updates": "^7.0.2",
+    "prettier": "^2.0.5",
+    "rimraf": "^3.0.2",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7",
+    "typesync": "^0.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.19"
+  }
+}
